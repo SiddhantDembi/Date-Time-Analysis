@@ -1,7 +1,7 @@
 # Timestamp Analysis Application
 
 ## Overview
-The Timestamp Analysis Application is a Streamlit-based web application designed to analyze timestamp data fetched from a MySQL database. This data records the number of times push-ups were done each day. The application provides insights such as monthly counts, average monthly counts, dates with the highest count, frequency with user input, days with frequency, and hourly frequency.
+The Timestamp Analysis Application is a Streamlit-based web application designed to analyze realtime data fetched from a MySQL database. This data records the number of times push-ups were done each day. The application provides insights such as monthly counts, average monthly counts, dates with the highest count, frequency with user input, days with frequency, and hourly frequency.
 
 ## Setup
 1. **Clone the Repository**: 
